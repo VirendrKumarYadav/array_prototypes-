@@ -1,5 +1,5 @@
 <!-- this is readme.md file for my package  -->
-# calculator
+# Array Prototypes
 1. install the the basic package
 2. use redline command and configure is methods
 3. configure the best way to download the package
